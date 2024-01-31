@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://logo.com/image-cdn/images/kts928pd/production/08207a1a4c3383abed17d2995786c44959ceaa91-1140x620.png?w=1080&q=72](https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023_%28white%29.png)" alt="Twitter Clone Logo">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023_%28white%29.png" alt="Twitter Clone Logo">
 </p>
 
 # 🐦 Twitter Clone
