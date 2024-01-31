@@ -3,7 +3,7 @@
 </p>
 
 # 🐦 Twitter Clone
-![image](https://github.com/MarkusDavis/twitter-clone/assets/demo-image.png)
+![image](https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023_%28white%29.png)
 
 Welcome to the Twitter Clone - a feature-rich emulation of Twitter crafted with Next.js, Prisma, and PostgreSQL. This project mirrors Twitter's quintessential features, enabling users to engage in the dynamic world of microblogging. Customize your profile, interact with tweets, and immerse in the ever-evolving social narrative.
 
